@@ -1,0 +1,4 @@
+name: Jetpackz
+version: '${project.version}'
+main: com.etsuni.jetpackz.Jetpackz
+api-version: 1.19
