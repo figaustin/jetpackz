@@ -5,7 +5,6 @@ import org.bukkit.enchantments.Enchantment;
 import org.bukkit.enchantments.EnchantmentTarget;
 import org.bukkit.inventory.ItemStack;
 
-import static com.etsuni.jetpackz.Jetpackz.plugin;
 
 public class EnchantmentManager extends Enchantment {
     private final String name;

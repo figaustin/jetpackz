@@ -6,7 +6,6 @@ import java.lang.reflect.Field;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-import static com.etsuni.jetpackz.Jetpackz.plugin;
 
 public class CustomEnchant {
 
